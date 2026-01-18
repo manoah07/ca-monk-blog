@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CA Monk - Blog Application Assignment
 
 Welcome to the CA Monk Blog Application assignment! This project tests your ability to build a modern React application with state management, styling, and component libraries.
@@ -156,3 +157,6 @@ If you have any additional doubts, feel free to reach out at: `developer@camonk.
 
 
 Good luck! 🚀
+=======
+# ca-monk-blog
+>>>>>>> 816725354b9cde04e37e05fb0887ca4fabb157cf
